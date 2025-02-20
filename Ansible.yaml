@@ -1,0 +1,4 @@
+- Name: Query Dynatrace API
+  hosts: localhost
+  gather_facts: yes
+  tasks:
